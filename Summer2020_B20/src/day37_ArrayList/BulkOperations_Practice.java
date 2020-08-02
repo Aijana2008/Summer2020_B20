@@ -50,9 +50,12 @@ public class BulkOperations_Practice {
         employees.retainAll(  Arrays.asList("Ahmed", "Dawud")  );
         System.out.println(employees);
 
+        System.out.println("=========================================");
 
-
-
+ArrayList<String>name = new ArrayList<>();
+name.addAll(Arrays.asList("Zuhal","Musa","Minara","Milos","Olesia","Tahsin","Azamat"));
+name.remove("Minara");
+        System.out.println(name);
 
 
 
