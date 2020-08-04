@@ -25,8 +25,8 @@ public class Duplicates {
 
         System.out.println("============================================");
 
-        ArrayList<Integer> grade = new ArrayList<>();
-        grade.addAll( Arrays.asList(100, 90, 75, 85, 65, 85, 55, 45, 73, 73, 35, 47));
+        ArrayList<Integer> grades = new ArrayList<>();
+        grades.addAll( Arrays.asList(100, 90, 75, 85, 65, 85, 55, 45, 73, 73, 35, 47));
 
         ArrayList<Integer> gradeOfA = new ArrayList<>(); // 90 ~ 100
         ArrayList<Integer> gradeOfB = new ArrayList<>(); // 80 ~ 89
@@ -45,7 +45,21 @@ public class Duplicates {
         DO NOT use loop
          */
 
-
+        gradeOfA.addAll(grades);
+        gradeOfB.addAll(grades);
+        gradeOfC.addAll(grades);
+        gradeOfD.addAll(grades);
+        gradeOfF.addAll(grades);
+        gradeOfA.removeIf(p -> !(p >= 90));
+        gradeOfB.removeIf(p -> !(p >= 80 && p < 90));
+        gradeOfC.removeIf(p -> !(p >= 70 && p < 80));
+        gradeOfD.removeIf(p -> !(p >= 60 && p < 70));
+        gradeOfF.removeIf(p -> !(p < 60));
+        System.out.println("Number of A students "+gradeOfA.size());
+        System.out.println("Number of B students "+gradeOfB.size());
+        System.out.println("Number of C students "+gradeOfC.size());
+        System.out.println("Number of D students "+gradeOfD.size());
+        System.out.println("Number of F students "+gradeOfF.size());
 
 
 
