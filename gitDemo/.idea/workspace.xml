@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eeea0aa-f53a-4188-ab14-4f6574b7c36d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Library/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Library/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Summer2020_B20/src/Library/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Library/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitDemo/HelloB20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitDemo/HelloB20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloB20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloB20.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fWNwzOGXTHJ1gaWwe18LUbSjPD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="BookARoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookARoom" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloB20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloB20" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeyB20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeyB20" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.BookARoom" />
+        <item itemvalue="Application.HeyB20" />
+        <item itemvalue="Application.HelloB20" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eeea0aa-f53a-4188-ab14-4f6574b7c36d" name="Default Changelist" comment="" />
+      <created>1596330132895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596330132895</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1122" height="315" key="GridCell.Tab.0.bottom" timestamp="1596376401727">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.0.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401727" />
+    <state width="1122" height="315" key="GridCell.Tab.0.center" timestamp="1596376401726">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.0.center/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401726" />
+    <state width="1122" height="315" key="GridCell.Tab.0.left" timestamp="1596376401725">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.0.left/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401725" />
+    <state width="1122" height="315" key="GridCell.Tab.0.right" timestamp="1596376401726">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401726" />
+    <state width="1122" height="315" key="GridCell.Tab.1.bottom" timestamp="1596376401729">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.1.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401729" />
+    <state width="1122" height="315" key="GridCell.Tab.1.center" timestamp="1596376401728">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.1.center/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401728" />
+    <state width="1122" height="315" key="GridCell.Tab.1.left" timestamp="1596376401727">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.1.left/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401727" />
+    <state width="1122" height="315" key="GridCell.Tab.1.right" timestamp="1596376401728">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state width="1122" height="315" key="GridCell.Tab.1.right/0.23.2048.1049@0.23.2048.1049" timestamp="1596376401728" />
+  </component>
+</project>
