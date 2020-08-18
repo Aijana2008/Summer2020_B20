@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22fc7b83-7824-427b-ae3f-98c594396451" name="Default Changelist" comment="">
+    <list default="true" id="b5ffc026-9d2a-4da2-9701-5b6dcd0af614" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Git_Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../gitPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../gitPractice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1gHwlGAkeepTQbMiB33IdA5Zun7" />
+  <component name="ProjectId" id="1gI77m0qF2Sp4OcA5nKleAfN0D6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -20,9 +27,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -30,22 +34,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22fc7b83-7824-427b-ae3f-98c594396451" name="Default Changelist" comment="" />
-      <created>1597784974973</created>
+      <changelist id="b5ffc026-9d2a-4da2-9701-5b6dcd0af614" name="Default Changelist" comment="" />
+      <created>1597790088025</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597784974973</updated>
+      <updated>1597790088025</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="62" y="31" key="#Project_Structure" timestamp="1597784985968">
+    <state x="27" y="80" key="SettingsEditor" timestamp="1597790109120">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
-    <state x="62" y="31" key="#Project_Structure/0.23.2048.1049@0.23.2048.1049" timestamp="1597784985968" />
-    <state x="87" y="137" key="SettingsEditor" timestamp="1597785548249">
-      <screen x="0" y="23" width="2048" height="1049" />
-    </state>
-    <state x="87" y="137" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1597785548249" />
+    <state x="27" y="80" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1597790109120" />
   </component>
 </project>
