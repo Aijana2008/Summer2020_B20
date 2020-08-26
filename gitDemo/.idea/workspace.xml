@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eeea0aa-f53a-4188-ab14-4f6574b7c36d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Library/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Library/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Summer2020_B20/src/Library/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Library/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitDemo/HelloB20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitDemo/HelloB20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloB20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloB20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git_Practice/.idea/Git_Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git_Practice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git_Practice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../gitPractice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fWNwzOGXTHJ1gaWwe18LUbSjPD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">

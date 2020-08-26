@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5ffc026-9d2a-4da2-9701-5b6dcd0af614" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Git_Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TypicalError/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gitDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gitPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../gitPractice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
